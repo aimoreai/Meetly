@@ -1,0 +1,6 @@
+{
+  "name": "Meetly",
+  "description": "Meet people. Do things. A real-world social discovery platform that uses AI to transform intentions into plans and connections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
